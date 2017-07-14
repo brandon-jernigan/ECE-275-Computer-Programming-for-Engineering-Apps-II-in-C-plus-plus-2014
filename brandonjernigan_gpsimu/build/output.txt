@@ -1,0 +1,24 @@
+CAT Vehicle Testing Lot
+2 to 2
+States: Standby
+
+CAT Vehicle Testing Lot
+3 to 3
+States: Init
+
+Fry's
+4 to 4
+States: Standby
+
+University Boulevard
+1 to 1
+States: Init
+
+University Boulevard
+2.4 to 2.5
+States: Standby, Init
+
+University Boulevard
+5 to 5
+States: Init
+

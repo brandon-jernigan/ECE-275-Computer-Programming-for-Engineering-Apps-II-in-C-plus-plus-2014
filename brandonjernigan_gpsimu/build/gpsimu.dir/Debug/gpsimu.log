@@ -1,0 +1,20 @@
+﻿Build started 11/4/2014 11:42:24 PM.
+     1>Project "C:\Users\Brandon\Desktop\7\build\gpsimu.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"gpsimu.dir\Debug\\" /Fd"gpsimu.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C:\Users\Brandon\Desktop\7\src\GPSIMUState.cpp C:\Users\Brandon\Desktop\7\src\VehicleJourney.cpp C:\Users\Brandon\Desktop\7\src\main.cpp
+         GPSIMUState.cpp
+         VehicleJourney.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brandon\Desktop\7\build\Debug\gpsimu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Brandon/Desktop/7/build/Debug/gpsimu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Brandon/Desktop/7/build/Debug/gpsimu.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug gpsimu.dir\Debug\GPSIMUState.obj
+         gpsimu.dir\Debug\Location.obj
+         gpsimu.dir\Debug\main.obj
+         gpsimu.dir\Debug\VehicleJourney.obj
+         gpsimu.dir\Debug\Visit.obj
+         gpsimu.vcxproj -> C:\Users\Brandon\Desktop\7\build\Debug\gpsimu.exe
+     1>Done Building Project "C:\Users\Brandon\Desktop\7\build\gpsimu.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.36
