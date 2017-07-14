@@ -1,5 +1,7 @@
 # ECE-275-Computer-Programming-for-Engineering-Apps-II-in-C-plus-plus-2014
 
+C and C++ programming. Core design and analysis of engineering algorithms and structures including lists, trees, graphs, traversal, and encoding. Fundamentals of C and C++ programming languages including pointers, structures, unions, and introduction to classes. Programming design topics including memory management, abstraction and design of advanced structures, and basics of software engineering.
+
 Assignments:
 
 1-tempfilter
